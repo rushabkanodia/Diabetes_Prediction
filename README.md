@@ -17,7 +17,7 @@
   * [Credits](#credits)
 
 
-### Overview 
+<### Overview 
 In this project, the objective is to predict whether the person has Diabetes or not based on various features suach as 
 - Pregnancies
 - Insulin Level
@@ -85,3 +85,4 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ### Note:
 - Webapp can handle concurrency upto some extent but can be scaled.
 
+>
