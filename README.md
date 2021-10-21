@@ -12,11 +12,11 @@ Made By Rushab Kanodia a student of Thapar Insitute of engineering and technolog
 
    Input:</br>
 
-   ![FlowChart](Resource/Input.png)</br></br>
+   ![FlowChart](Resource/Output.png)</br></br>
 
    Output:</br>
 
-   ![FlowChart](Resource/Output.png)</br></br>
+   ![FlowChart](Resource/Input.png)</br></br>
 
    Novelty:</br>
 
